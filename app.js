@@ -50,7 +50,7 @@ app.get('/me', auth, (req, res) => {
     res.status(200).json({
         name: "Abdullateef Oni",
         email: "abdullateefoni@yahoo.com",
-        github: "https://github.com/El-magnificoxxii",
+        github_url: "https://github.com/El-magnificoxxii",
         repo_name: "hng-personal-api"
     });
 });
