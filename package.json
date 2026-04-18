@@ -1,0 +1,12 @@
+{
+  "name": "hng-personal-api",
+  "version": "1.0.0",
+  "description": "Personal API for HNG DevOps Stage 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
